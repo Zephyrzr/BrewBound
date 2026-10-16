@@ -9,9 +9,9 @@
 ## 🌟 Fitur
 
 ### 1. 🎨 UI
-* **Dialog Box Khas Game Sandbox(stardewvalley)**: Latar biru laut bergradasi gelap (`#0e3b6e` ke `#071f3d`), border cyan timbul (`#3fa2e6` dan highlight `#7ad0ff`), rivet sekrup sudut, dan tombol 3D bevel (Biru, Hijau, Merah).
-* **Hotbar Ransel Kotak Khas GT**: Slot bahan kotak dengan efek kedalaman bayangan dan indikator kuantitas angka kuning (`#ffeb3b`) berbayang hitam di pojok kanan bawah.
-* **Bar HP Arcade**: Tampilan bar HP bergaya arcade dengan persentase dan bar khusus ungu/emas untuk para Lord.
+* **Dialog Box Khas Game Sandbox*
+* **Hotbar Ransel Kotak**
+* **Bar HP Arcade**
 
 ---
 
