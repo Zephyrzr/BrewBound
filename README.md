@@ -1,14 +1,14 @@
 # 🧪 BrewBound
 
 **Genre**: 2D Top-Down RPG & Turn-Based Elemental Battle  
-**Engine**: Python 3.13 + Pygame 2.6  
+**Engine**: Python 3.13 + Pygame 2.6 + Pygbag
 **Style UI**: Sandbox(Beveled Blue Panels, Cyan Frames, Blocky Hotbar, Yellow Quantities)  
 
 ---
 
-## 🌟 Fitur Baru di Versi Ini
+## 🌟 Fitur
 
-### 1. 🎨 UI Bergaya Sandbox
+### 1. 🎨 UI
 * **Dialog Box Khas Game Sandbox(stardewvalley)**: Latar biru laut bergradasi gelap (`#0e3b6e` ke `#071f3d`), border cyan timbul (`#3fa2e6` dan highlight `#7ad0ff`), rivet sekrup sudut, dan tombol 3D bevel (Biru, Hijau, Merah).
 * **Hotbar Ransel Kotak Khas GT**: Slot bahan kotak dengan efek kedalaman bayangan dan indikator kuantitas angka kuning (`#ffeb3b`) berbayang hitam di pojok kanan bawah.
 * **Bar HP Arcade**: Tampilan bar HP bergaya arcade dengan persentase dan bar khusus ungu/emas untuk para Lord.
@@ -60,17 +60,3 @@ Bila HP sang Lord turun hingga **50% ke bawah**:
 | **Esc** | Mencoba kabur dari pertarungan (Memperhitungkan % peluang) |
 | **C** | Membersihkan slot kuali racik |
 | **B** | Membuka / menutup Buku Resep |
-
----
-
-## 🚀 Cara Menjalankan Game Pygame
-Jalankan script `main.py` dari direktori proyek.
-
-## 🌐 Menjalankan di Web dengan Pygbag
-
-1. Pasang Pygbag dengan `py -m pip install pygbag`.
-2. Buka terminal di direktori proyek, lalu jalankan `py -m pygbag --disable-sound-format-error --cdn https://pygame-web.github.io/archives/0.9/ .`.
-3. Pygbag akan membuka game di browser lokal. Untuk membuat hasil build web statis, jalankan `py -m pygbag --disable-sound-format-error --cdn https://pygame-web.github.io/archives/0.9/ --build .`.
-4. Unggah isi folder `build/web` ke layanan hosting statis.
-
-File `main.py` menjalankan game sebagai loop `asyncio` agar browser tetap responsif. Emoji dirender dengan font Noto Emoji yang disertakan di `assets/fonts` agar terlihat pada browser tanpa mengandalkan font sistem. Build memakai arsip CDN Pygbag 0.9 agar dependensi browser filesystem tersedia. Musik menggunakan `assets/bgm.ogg` karena format OGG didukung Pygbag; file MP3 sumber tetap disimpan. Semua aset game harus tetap berada di dalam direktori proyek supaya ikut disertakan dalam build. Musik latar mulai diputar setelah pemain menekan Mulai, sesuai kebijakan autoplay browser.
