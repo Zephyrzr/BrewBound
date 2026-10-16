@@ -9,7 +9,7 @@
 ## 🌟 Fitur
 
 ### 1. 🎨 UI
-* **Dialog Box Khas Game Sandbox*
+* **Dialog Box Khas Game Sandbox**
 * **Hotbar Ransel Kotak**
 * **Bar HP Arcade**
 
