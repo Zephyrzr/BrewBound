@@ -1,8 +1,7 @@
 # 🧪 BrewBound
 
 **Genre**: 2D Top-Down RPG & Turn-Based Elemental Battle  
-**Engine**: Python 3.13 + Pygame 2.6 + Pygbag
-**Style UI**: Sandbox(Beveled Blue Panels, Cyan Frames, Blocky Hotbar, Yellow Quantities)  
+**Engine**: Python 3.13 + Pygame 2.6 + Pygbag 
 
 ---
 
