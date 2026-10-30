@@ -29,20 +29,17 @@ Para boss area kini berwujud penguasa bermahkota megah dengan julukan para **LOR
 
 1. **Area 1: LORD POHON PURBA: DVALIN**  
    * *Gelar*: Penguasa Hutan Gelap Purba  
-   * *HP*: 120 | *Lemah*: 🔥 **Api**  
-   * *Kutipan*: *"Hutan ini milikku! Nyala apimu takkan mampu menembus akar purbaku!"*
+   * *HP*: 120 | *Lemah*: 🔥 **Api**
 2. **Area 2: LORD GOLEM KRISTAL: BALTOR**  
    * *Gelar*: Kaisar Inti Kristal Abadi  
-   * *HP*: 170 | *Lemah*: 💧 **Air**  
-   * *Kutipan*: *"Tubuhku ditempa dari ribuan permata mineral! Air kalian hanya membasahi kulitku!"*
+   * *HP*: 170 | *Lemah*: 💧 **Air**
 3. **Area 3: HIGH LORD RATU KABUT: VESPERA (FINAL BOSS)**  
    * *Gelar*: Ratu Tertinggi Kabut Kematian  
-   * *HP*: 250 | *Lemah*: 🔥 **Api** dan 🪨 **Batu**  
-   * *Kutipan*: *"Beraninya seorang murid fana menantang Yang Mulia! Seluruh desa akan tenggelam dalam kabutku!"*
+   * *HP*: 250 | *Lemah*: 🔥 **Api** dan 🪨 **Batu**
 
 #### ⚠️ Mekanisme Mode Amarah (Enraged Phase)
 Bila HP sang Lord turun hingga **50% ke bawah**:
-* Sang Lord memicu **MODE AMARAH SANG LORD** (*Enraged State*).
+* Lord memicu **MODE AMARAH** (*Enraged State*).
 * Raungan boss (*Boss Roar*) bergema dan aura merah berapi menyelimuti tubuhnya.
 * Daya serang sang Lord melonjak sebesar **+30%**!
 
