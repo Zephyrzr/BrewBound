@@ -24,7 +24,7 @@ Senjata alkemis adalah racikan ramuan, namun ketika terdesak, pemain dapat menco
 
 ---
 
-### 3. 👑 Boss Style LORD
+### 3. 👑 Sistem Boss
 Para boss area kini berwujud penguasa bermahkota megah dengan julukan para **LORD**:
 
 1. **Area 1: LORD POHON PURBA: DVALIN**  
