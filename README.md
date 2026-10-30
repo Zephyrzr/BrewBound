@@ -40,7 +40,7 @@ Para boss area kini berwujud penguasa bermahkota megah dengan julukan para **LOR
 #### ⚠️ Mekanisme Mode Amarah (Enraged Phase)
 Bila HP sang Lord turun hingga **50% ke bawah**:
 * Lord memicu **MODE AMARAH** (*Enraged State*).
-* Raungan boss (*Boss Roar*) bergema dan aura merah berapi menyelimuti tubuhnya.
+* Raungan boss bergema dan aura merah berapi menyelimuti tubuhnya.
 * Daya serang sang Lord melonjak sebesar **+30%**!
 
 ---
